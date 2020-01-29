@@ -6,8 +6,8 @@ dependencies:
   - numpy
   - pip
   - pip:
-    - json=2.0.9
     - qgrid
+    - json-2.0.9
     - pandas
     - getopt
     - os
