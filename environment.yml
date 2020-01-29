@@ -8,7 +8,6 @@ dependencies:
   - pip:
     - qgrid
     - pandas
-    - getopt
     - os
     - sys
     - zipfile
