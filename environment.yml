@@ -2,14 +2,13 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python=3.7
   - numpy
   - pip
-  - pip:
-    - json
-    - qgrid
-    - pandas
-    - getopt
-    - os
-    - sys
-    - zipfile
+  - json=2.0.9
+  - qgrid
+  - pandas
+  - getopt
+  - os
+  - sys
+  - zipfile
