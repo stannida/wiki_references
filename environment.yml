@@ -5,10 +5,11 @@ dependencies:
   - python=3.7
   - numpy
   - pip
-  - json=2.0.9
-  - qgrid
-  - pandas
-  - getopt
-  - os
-  - sys
-  - zipfile
+  -pip:
+    - json=2.0.9
+    - qgrid
+    - pandas
+    - getopt
+    - os
+    - sys
+    - zipfile
